@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "\nPOSITIVE\n",
+    "T_STAT": "\n1.820\nIt means that, if the number of crimes were not correlated to the median age, the coefficient for median age would have a t-score of 1.820 above mean\n\n",
+    "P_VALUE": "\np-value for the median age means that we are confident at 87.2% that its effect is statistically significant (not due to pure chance)\nNot statistically significant at the 95% (p_value > 0.05)\nNot statistically significant at the 90% (p_value > 0.1)\n",
+    "INCREASE": "\nIf all other regressors remain constant, the total number of incidents will decrease about -2215 when the share of families with a married couple increases by 1% in the disctricts, with confidence of 95%\n\n",
+    "LIMITATIONS": "\nfirst explanation : some features are correlated, especially with 2 'families' of features : age (\"MEDIAN_AGE\", \"PERC_OF_30_34\", \"PERC_MARRIED_COUPLE_FAMILY\") and studies (\"PERC_LESS_THAN_HIGH_SCHOOL\", \"PERC_COLLEGE_GRADUATES\")\n"
+}
